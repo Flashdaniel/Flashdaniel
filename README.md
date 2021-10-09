@@ -1,6 +1,5 @@
 ### <h2>नमस्ते (Namaste)🙏🏻, I'm Daniel!
   </br>
- &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
