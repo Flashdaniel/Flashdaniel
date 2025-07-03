@@ -7,7 +7,7 @@ I'm a Software Engineer focused on clean, accessible, and user-first design. I t
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering]([https://altschoolafrica.com/schools/engineering](https://engineering.altschoolafrica.com/)) Class of 2025.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering]([https://altschoolafrica.com/schools/engineering](https://engineering.altschoolafrica.com/) Class of 2025.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
@@ -15,6 +15,6 @@ I'm a Software Engineer focused on clean, accessible, and user-first design. I t
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flashdaniel&show_icons=true&include_all_commits=true&hide_border=true" alt="Flashdaniel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashdaniel&langs_count=8&layout=compact&hide_border=true" alt="Flashdaniel's GitHub stats" /> |
 | ------------- | ------------- |
 
